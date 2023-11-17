@@ -101,12 +101,3 @@ const pikachuData = await getPokemon("pikachu");
 ```
 #### `Returns` An object containing detailed information about the specified Pokemon.
 
-
-<div>
-  <h1 align="center">
-<!-- <img style="width: 100px" src="https://www.sendx.io/hubfs/SendPost_August2021/images/SendX-By-Logo.svg" width="100" /> -->
-<br>Interface
-</h1>
-</div>
-
-
